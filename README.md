@@ -11,5 +11,5 @@
 
 ## Building
 
-`docker build -t iib_tex .`
+`docker build -t docker-tex .`
 
